@@ -1,0 +1,6 @@
+learning-java
+=============
+
+A repository of files created while learning Java.
+
+spotify-lookup is an attempt to jump in at the deep end and learn Java from scratch. Where possible, best practise is used, which results in the code only partially working due to half the useful functions being depreciated. The program takes playlist.txt, a list of Spotify HTTP URLs, and outputs a csv of the relevant fields returned from the Spotify API. Attempts to use Grooveshark to allow a soft 'conversion' of the platform of the playlist were made, but are disabled at present due to problems figuring out how to escape URLs...
